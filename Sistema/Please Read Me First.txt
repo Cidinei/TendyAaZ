@@ -1,0 +1,12 @@
+Upload the "upload-this-for-fresh-installation-2.9.1.zip" file to your server only if you are looking for a Fresh Installation.
+
+"DONOT" upload this zip file if you want to upgrade Foodomaa. 
+You will lose some of your customizations if you do so.
+
+Please donot be stupid enough to ignore this warning. Later, if you come over support and rant about your logos and files are replaced, we won't be able to help you with that.
+
+===
+
+If you have purchased an Extedned License, please create a ticket on our help desk and provide your purchase code.
+
+https://support.stackcanyon.com

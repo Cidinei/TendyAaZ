@@ -1,0 +1,13 @@
+{
+    "name": "ThermalPrinterPro",
+    "alias": "thermalprinterpro",
+    "description": "A simple and practical way to print orders on your thermal printer",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ThermalPrinterPro\\Providers\\ThermalPrinterProServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

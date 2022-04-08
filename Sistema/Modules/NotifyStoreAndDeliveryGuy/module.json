@@ -1,0 +1,13 @@
+{
+    "name": "NotifyStoreAndDeliveryGuy",
+    "alias": "notifystoreanddeliveryguy",
+    "description": "Sound notification system for Store and Delivery Guy apps",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\NotifyStoreAndDeliveryGuy\\Providers\\NotifyStoreAndDeliveryGuyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

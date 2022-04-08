@@ -1,0 +1,12 @@
+{
+    "Cashback": true,
+    "AddonsPro": true,
+    "DeliveryAreaPro": true,
+    "DeliveryRadiusPro": true,
+    "StoreDashBoardPro": true,
+    "SuperCache": true,
+    "ThermalPrinterPro": true,
+    "CallAndOrder": true,
+    "NotifyStoreAndDeliveryGuy": true,
+    "OrderSchedule": true
+}

@@ -1,0 +1,13 @@
+{
+    "name": "StoreDashBoardPro",
+    "alias": "storedashboardpro",
+    "description": "Ability of the store itself to manage all order status without the need for the delivery application in a Simple and Practical Panel.",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\StoreDashBoardPro\\Providers\\StoreDashBoardProServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

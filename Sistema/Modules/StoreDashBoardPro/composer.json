@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/storedashboardpro",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\StoreDashBoardPro\\Providers\\StoreDashBoardProServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\StoreDashBoardPro\\": ""
+        }
+    }
+}

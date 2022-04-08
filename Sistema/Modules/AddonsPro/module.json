@@ -1,0 +1,19 @@
+{
+    "name": "AddonsPro",
+    "alias": "addonspro",
+    "description": "Set minimum and maximum selection of addons.",
+    "authors": [
+        {
+            "name": "MarketDev.pro",
+            "email": "contact@marketdev.pro"
+        }
+    ],
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\AddonsPro\\Providers\\AddonsProServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

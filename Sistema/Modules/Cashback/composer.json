@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/cashback",
+    "description": "Cashback in Wallet System",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Cashback\\Providers\\CashbackServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Cashback\\": ""
+        }
+    }
+}

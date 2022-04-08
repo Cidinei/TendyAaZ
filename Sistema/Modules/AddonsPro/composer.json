@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/addonspro",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\AddonsPro\\Providers\\AddonsProServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\AddonsPro\\": ""
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Cashback",
+    "alias": "cashback",
+    "description": "Cashback in Wallet System",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Cashback\\Providers\\CashbackServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

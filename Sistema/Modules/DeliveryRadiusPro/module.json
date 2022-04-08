@@ -1,0 +1,13 @@
+{
+    "name": "DeliveryRadiusPro",
+    "alias": "deliveryradiuspro",
+    "description": "Set maximum distance between the Delivery Person and the Store address to view and accept races.",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\DeliveryRadiusPro\\Providers\\DeliveryRadiusProServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

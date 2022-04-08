@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/deliveryradiuspro",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\DeliveryRadiusPro\\Providers\\DeliveryRadiusProServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\DeliveryRadiusPro\\": ""
+        }
+    }
+}
